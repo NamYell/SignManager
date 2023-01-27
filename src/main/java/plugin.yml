@@ -1,0 +1,6 @@
+main: Main
+version: 1.0
+name: "SignPacketReader"
+api-version: 1.19
+commands:
+  sign:
